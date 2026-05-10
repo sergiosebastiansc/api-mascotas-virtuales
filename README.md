@@ -32,7 +32,7 @@ Esta es una API REST básica construida con **Node.js**, **Express.js** y **Mong
    ```
 
 3. **Configurar MongoDB:**
-   Asegúrate de tener una instancia de MongoDB corriendo localmente en `mongodb://127.0.0.1:27017/`.
+   Asegúrate de tener una instancia de MongoDB corriendo localmente en `mongodb://localhost:27017/mascotasdb`.
 
 4. **Iniciar el servidor:**
    - Para desarrollo (con nodemon):
