@@ -117,6 +117,17 @@ Para comprobar que la API devuelve correctamente la lista de mascotas.
 - **Status:** `200 OK`
 - **Respuesta:** arreglo JSON con las mascotas disponibles.
 ---
+### Obtener mascota por Id
+* **GET**
+*   **URL:** `http://localhost:3000/pets/id`
+
+![mascotas](./docs/imgs/get%20pets%20por%20id.png)
+
+### Resultado esperado
+
+- **Status:** `200 OK`
+- **Respuesta:** arreglo JSON con la mascota correspondiente al id.
+---
 
 ### Actualizar una Mascota
 
